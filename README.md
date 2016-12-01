@@ -1,2 +1,5 @@
-# Wordpress project starter
-Materialize Gulp SASS project starter
+# Wordpress Theme project starter
+Wordpress (underscores.me) 
+Materialize.css
+SASS
+Gulp (BrowserSync, Concat, Minify)
