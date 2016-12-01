@@ -1,5 +1,5 @@
 # Wordpress Theme project starter
 Wordpress (underscores.me) <br>
-Materialize.css
-SASS
+Materialize.css <br>
+SASS <br>
 Gulp (BrowserSync, Concat, Minify)
